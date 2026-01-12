@@ -1,1 +1,5 @@
-# fef-project-nicolai-zackrisson
+# Moji, the emoji webstore
+### Project for the course frontend fundamentals
+
+Browse and purchase the newest emojis on the market!
+
